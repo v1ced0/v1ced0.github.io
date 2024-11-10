@@ -1,0 +1,12 @@
+<div class="col-md-6 col-sm-6 single-item">
+                        <a href="assets/images/work/3.jpg" class="work-box img-popup vbox-item" data-title="Development" data-category="development">
+                            <div class="work-thumb">
+                                <img src="assets/images/work/3.jpg" alt="work">
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-md-6 col-sm-6 single-item">
+                        <a href="assets/images/work/4.jpg" class="work-box img-popup vbox-item" data-title=" Art &amp; Design" data-category="Photography">
+                            <div class="work-thumb">
+                                <img src="assets/images/work/4.jpg" alt="work">
+                            </div>
